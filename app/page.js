@@ -4,6 +4,7 @@ import classes from './page.module.css';
 import ImageSlideshow from './components/main-header/Image/image-slideshow';
 
 export default function Home() {
+  //asdadja
   return (
     <>
       <header className={classes.header}>
